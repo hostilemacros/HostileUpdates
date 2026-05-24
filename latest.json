@@ -1,11 +1,11 @@
 {
-  "version": "0.2.13",
-  "notes": "Hostile Macros 0.2.13",
-  "pub_date": "2026-05-24T15:23:28.601Z",
+  "version": "0.2.14",
+  "notes": "Hostile Macros 0.2.14",
+  "pub_date": "2026-05-24T15:37:08.161Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNWpsNWRJOVdOaWZlbmVidUhubFdQQnpQNTBLdmFNSGZNZUR3ZXo2WkgvTm1ua1htTUFtZ3lBczFabU9CSWZJMHg0eHVRNkN4ZGsranhCa1JBNHR0MDlHaG5EZ2tOR1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjM2MTg4CWZpbGU6SG9zdGlsZSBNYWNyb3NfMC4yLjEzX3g2NC1zZXR1cC5leGUKU1UvMlBiREkwQXRmNkpoS2pjdnRRYUZsdDRtcnc5dVVxNmd3Z2JCUU1JOFY3YkVCeVZTNkN4Y28wd1VqbjJYaUYzZ28xdkZRS0Q5Qko3UlRKbGVDQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/hostilemacros/HostileUpdates/main/Hostile%20Macros_0.2.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNWpsNWRJOVdOaWNMRmtESEFqNjFaN0c0b1FVZkFBQjZlTmNFMVFiREFMWjN6cEk3Z05tZVVjQmZrR2NYOUhKU1lEZWpvVmZ6MzR5SnpmTlQ4N0pRQjlhOEFyQkttWVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NjM3MDE5CWZpbGU6SG9zdGlsZSBNYWNyb3NfMC4yLjE0X3g2NC1zZXR1cC5leGUKVTQrdjI2eGRzL2I1RnJJK20veHhrNmRKY1BnZ1RYMUJmenRuajJya1VIMVg4OTZ4SFNDeHlxbFNNd0JmUFVObWhSQWFMWVhlam10SG91RGJCaFJnQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/hostilemacros/HostileUpdates/main/Hostile%20Macros_0.2.14_x64-setup.exe"
     }
   }
 }
